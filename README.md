@@ -97,3 +97,4 @@ supabase/
 All branches, semesters, skills, job roles, project templates, and color palettes are centralized in `src/config/appConfig.ts`. To adapt the platform for another university or college branch, modify `appConfig.ts` without rewriting any core application logic.
 "# edutech1" 
 "# edutech1" 
+"# 3" 
