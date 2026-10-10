@@ -99,3 +99,4 @@ All branches, semesters, skills, job roles, project templates, and color palette
 "# edutech1" 
 "# 3" 
 "# 3" 
+"# tricity1" 
